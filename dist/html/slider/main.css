@@ -1,0 +1,49 @@
+html, body{
+	font-family: 'Ubuntu', sans-serif;
+}
+
+#pmi-slider-container{
+	width: 1140px;
+	height: 430px;
+	background: #003366;
+	margin: 0px auto;
+}
+
+.pmi-slide{
+	max-height: 100%;
+	width: 100%;
+	margin: 35px 0px;
+}
+
+.pmi-slide img{
+	float: left;
+	width: 620px;
+	border: 5px solid white;
+}
+
+.pmi-slide .copy {
+	width: 400px;
+	padding: 0px 30px;
+	display: inline-block;
+}
+
+.pmi-slide .copy p {
+	color: white;	
+	font-size: 16px;
+	line-height: 24px;
+}
+
+.pmi-slide .copy h3 {
+	color: #99CC66;	
+	margin: 0px 0px 4px 0px;
+	font-size: 24px;
+	font-weight: 500;
+}
+
+.pmi-slide .copy a{
+	color: #3399FF;
+	text-decoration: none;
+	font-size: 17px;
+	font-weight: 500;
+}
+
